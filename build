@@ -1,0 +1,2 @@
+#!/bin/bash
+docker build -t guahanweb/node-cms-lite:$(cat version) .
